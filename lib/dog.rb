@@ -11,5 +11,5 @@ end
 
 fido = Dog.new
 
-Dog.bark 
-Dog.sit
+fido.bark 
+fido.sit
