@@ -5,3 +5,7 @@ class Person
   def talk 
     puts "Hello World!"
 end 
+
+guy = Person.new 
+guy.walk 
+guy.talk
